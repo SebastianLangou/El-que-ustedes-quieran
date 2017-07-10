@@ -1,0 +1,95 @@
+#yo
+{
+	color: black;
+	font-size: 40px;
+}
+#estudios
+{
+	text-decoration: underline;
+	font-size: 30px;
+}
+#datos
+{
+	text-decoration: underline;
+	font-size: 30px;
+}
+.informacion1
+{
+	font-size: 25px;
+	margin-bottom: 5px;
+	font
+}
+#informacion2
+{
+	font-size: 20px;
+}
+img
+{
+	height: 450px;
+	border: 5px dotted #FFFFFF;
+}
+#Presentación
+{
+	max-width: 129px;
+	background-color: #00ff99;
+	margin-left: 560px;
+}
+#Estudios
+{
+	background-color:  #00ff99;
+	margin-left: 580px;
+	max-width: 88px;
+}
+.menua
+{
+	background-color: #ffd168;
+	font-size: 25px;
+	list-style-type: none;
+	margin-top: 5px;
+	max-width: 130px;
+	border-radius: 10px;
+}
+#menu
+{
+	float: left;
+	width: 31%
+}
+#contenido
+{
+	float: right;
+	width: 69%
+}
+.clear_both{
+	clear:both;
+}
+#datosp
+{
+	background-color:  #33ffbb;
+	border-radius: 10px;
+}
+#informacion2
+{
+	font-size: 25px;
+	background-color:  #33ffbb;
+	border-radius: 10px;
+}
+#pf
+{
+	text-decoration: underline;
+}
+body
+{
+	background-color: black;
+}
+#Inf
+{
+	background-color: #33ffbb;
+	border-radius: 10px;
+	font-size: 25px;
+
+}
+#proyectos
+{
+	background-color: #33ffbb;
+	border-radius: 10px;
+}
